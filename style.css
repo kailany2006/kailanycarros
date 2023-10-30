@@ -5,7 +5,12 @@ p{
 }
 
 H1{
-    color:
-    text-align:
-    font-size:
+    color: red;
+    text-align:center;
+    font-size:40px;
+    font-style:italic;
+}
+
+body{
+    background-color: blueviolet;
 }
